@@ -1,0 +1,39 @@
+{
+  "name": "ull-pr-modificaciones-alu0101128894",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "tsc-watch --onSuccess \"node dist/index.js\"",
+    "typedoc": "typedoc",
+    "coverage": "nyc npm test && nyc report --reporter=lcov"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ULL-ESIT-INF-DSI-2122/ull-pr-modificaciones-alu0101128894.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ULL-ESIT-INF-DSI-2122/ull-pr-modificaciones-alu0101128894/issues"
+  },
+  "homepage": "https://github.com/ULL-ESIT-INF-DSI-2122/ull-pr-modificaciones-alu0101128894#readme",
+  "devDependencies": {
+    "@types/chai": "^4.3.1",
+    "@types/mocha": "^9.1.1",
+    "@typescript-eslint/eslint-plugin": "^5.22.0",
+    "@typescript-eslint/parser": "^5.22.0",
+    "chai": "^4.3.6",
+    "coveralls": "^3.1.1",
+    "eslint": "^8.14.0",
+    "eslint-config-google": "^0.14.0",
+    "mocha": "^10.0.0",
+    "nyc": "^15.1.0",
+    "ts-node": "^10.7.0",
+    "tsc-watch": "^5.0.3",
+    "typedoc": "^0.22.15",
+    "typescript": "^4.6.4"
+  }
+}
