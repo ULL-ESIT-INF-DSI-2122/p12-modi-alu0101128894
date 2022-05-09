@@ -15,7 +15,7 @@
         <img alt="Sonar-Cloud" src="https://sonarcloud.io/api/project_badges/measure?project=ULL-ESIT-INF-DSI-2122_ull-pr-modificaciones-alu0101128894&metric=alert_status">
     </a>
     <a href="https://sonarcloud.io/summary/new_code?id=ULL-ESIT-INF-DSI-2122_ull-pr-modificaciones-alu0101128894">
-        <img alt="Maintainability" src="hhttps://sonarcloud.io/api/project_badges/measure?project=ULL-ESIT-INF-DSI-2122_ull-pr-modificaciones-alu0101128894&metric=sqale_rating">
+        <img alt="Maintainability" src="https://sonarcloud.io/api/project_badges/measure?project=ULL-ESIT-INF-DSI-2122_ull-pr-modificaciones-alu0101128894&metric=sqale_rating">
     </a>
 </p>
 
