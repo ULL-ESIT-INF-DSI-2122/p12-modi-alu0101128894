@@ -1,9 +1,6 @@
 {
   "entryPoints":[
-    "./src/ejercicio-2/ejercicio-2.ts",
-    "./src/ejercicio-3/ejercicio-3.ts",
-    "./src/Modificacion/suma.ts",
-    "./src/Modificacion/watchFile.ts"
+    "./src/Modificacion/server.ts"
  ],
  "out": "./typedoc"
 }
