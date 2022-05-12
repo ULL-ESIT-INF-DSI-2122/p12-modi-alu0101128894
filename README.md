@@ -24,6 +24,6 @@
 ###
 | **Repositorios Modificación 12:** |
 | --- |
-| [Acceso al fichero código Typescript](https://github.com/ULL-ESIT-INF-DSI-2122/p12-modi-alu0101128894/tree/main/src/Modificacion) |
+| [Acceso al fichero código Typescript](https://github.com/ULL-ESIT-INF-DSI-2122/p12-modi-alu0101128894/blob/main/src/Modificacion/server.ts) |
 | [Acceso al fichero de pruebas TDD](https://github.com/ULL-ESIT-INF-DSI-2122/p12-modi-alu0101128894/tree/main/tests) |
 | [Acceso a la documentación generada con Typedoc](https://github.com/ULL-ESIT-INF-DSI-2122/p12-modi-alu0101128894/tree/main/typedoc) |
