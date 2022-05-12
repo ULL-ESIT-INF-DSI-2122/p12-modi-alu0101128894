@@ -1,0 +1,1 @@
+se lee el fichero prueba.txt correctamente

@@ -22,6 +22,7 @@
   "homepage": "https://github.com/ULL-ESIT-INF-DSI-2122/ull-pr-modificaciones-alu0101128894#readme",
   "devDependencies": {
     "@types/chai": "^4.3.1",
+    "@types/express": "^4.17.13",
     "@types/mocha": "^9.1.1",
     "@types/yargs": "^17.0.10",
     "@typescript-eslint/eslint-plugin": "^5.22.0",
@@ -40,6 +41,7 @@
   "dependencies": {
     "@types/node": "^17.0.31",
     "chalk": "^4.1.2",
+    "express": "^4.18.1",
     "yargs": "^17.4.1"
   }
 }
