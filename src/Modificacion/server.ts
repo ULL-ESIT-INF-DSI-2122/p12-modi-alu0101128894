@@ -62,7 +62,7 @@ app.get('/execmd', (req, res) => {
   } else {
   /* Enviando un mensaje de error 404 al cliente. */
     res.status(404).send({
-      error: 'A command has to be provided.',
+      error: 'A command has to be provided',
     });
   }
 });
